@@ -1,0 +1,5 @@
+This is a simple NodeJS example that reads and writes data to Redis List/Array
+This example shows how you can store array data in Redis
+
+
+Code repo: 
